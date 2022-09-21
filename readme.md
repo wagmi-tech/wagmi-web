@@ -1,4 +1,4 @@
-wagmi-tech wagmi Web
+Wagmi Technologies Website
 
 [![Build Status](https://github.com/wagmi-tech/wagmi-web/actions/workflows/build.yml/badge.svg)](https://github.com/wagmi-tech/wagmi-web/actions/workflows/build.yml)
 
