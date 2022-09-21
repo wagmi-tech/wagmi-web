@@ -1,6 +1,6 @@
-# Registry Web
+wagmi-tech wagmi Web
 
-[![Build Status](https://github.com/treely/registry-web/actions/workflows/build.yml/badge.svg)](https://github.com/treely/registry-web/actions/workflows/build.yml)
+[![Build Status](https://github.com/wagmi-tech/wagmi-web/actions/workflows/build.yml/badge.svg)](https://github.com/wagmi-tech/wagmi-web/actions/workflows/build.yml)
 
 ## Intro
 

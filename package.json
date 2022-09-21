@@ -1,5 +1,5 @@
 {
-  "name": "registry-web",
+  "name": "wagmi-web",
   "version": "1.0.0",
   "private": true,
   "description": "The website powering https://wagmi-tech.com",
