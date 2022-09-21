@@ -10,7 +10,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Wagmi Technologies (local)',
   domain: 'localhost',
-  author: 'Jodok Batlogg',
+  author: 'Jodok Batlogg, BTLG Holding GmbH',
 
   // open graph metadata (optional)
   description: 'Wagmi Technologies',
